@@ -145,7 +145,7 @@ If you enjoy this project:
 ### 👤 Author
 
 **Tony stark Naveen**
-AI | Automation | Ethical Hacking
+chatgpt ⚡
 
 ---
 
